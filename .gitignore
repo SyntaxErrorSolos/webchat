@@ -1,0 +1,6 @@
+/client/webapp/node_modules
+/server/node_modules
+/server/.env
+/client/webapp/.next
+/client/webapp/build
+/client/webapp/out
